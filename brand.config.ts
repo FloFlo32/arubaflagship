@@ -30,7 +30,7 @@ export const brand = {
     "Set sail with Flagship Aruba aboard a traditional wooden schooner for snorkeling adventures and sunset cruises off Aruba's coast.",
 
   /** Primary domain WITHOUT protocol. `/build` sets this to <project>.getyetti.com. */
-  domain: "flagshiparuba.getyetti.com",
+  domain: "arubaflagship.getyetti.com",
 
   /** Theme — drives the whole color system. Run `npm run brand` after editing. */
   theme: {
@@ -55,7 +55,7 @@ export const brand = {
   /** Links shown in the footer + used by deploy scripts. */
   social: {
     /** owner/repo — used by the deploy/validate scripts to target the right GitHub repo. */
-    github: "FloFlo32/arubaa",
+    github: "FloFlo32/arubaflagship",
     instagram: "https://www.instagram.com/flagshiparuba",
     facebook: "https://www.facebook.com/profile.php?id=61591875877954",
     tiktok: "https://www.tiktok.com/@flagshiparuba",
